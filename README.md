@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=KamrulSh&show_icons=true"/>](https://github.com/KamrulSh/)
-
-
-
 <a href="https://www.linkedin.com/in/mdkamrulshahin/">
   <img align="left" alt="Shahin's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -38,18 +33,27 @@ Here are some ideas to get you started:
 <br />
 
 
-<!--
-#### Kaggle Competition Expert (x4) | Undergraduate Student Researcher
-#### *Currently looking for Data Scientist, Research Assistant Roles!*
-- Data Science and Research enthusiast.
-- A final year student at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/), completing my BSc. degree in Computer Science & Engineering (CSE). 
-- Currently working on Risk Factors Analysis of NHANES dataset and predicting diseases in Clinical Practice.
-- **Latest Publication**: ECG Heartbeat Classification Using Ensemble of Efficient Machine Learning Approaches on Imbalanced Datasets *(Accepted in ICAICT 2020)*
--->
-
 **To know more:**  [Portfolio](https://kamrulsh.github.io/), [LinkedIn](https://www.linkedin.com/in/mdkamrulshahin/), [Email](mailto:shahin.cuetcse@gmail.com)
 <br/>
 Check the repositories section to see my efforts! Hope, you will enjoy it.
 <br/>
-<p><img align='right' src="https://komarev.com/ghpvc/?username=KamrulSh" alt="KamrulSh" /> </p>
 
+<p align="center">
+  <a href="mailto:shahin.cuetcse@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-shahin.cuetcse@gmail.com-red?style=flat&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/KamrulSh"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-KamrulSh-blue?style=flat&logo=linkedin"></a>
+</p>
+
+<p align="center">
+   <table>
+      <tr>
+       <th>Profile stats  </th>
+       <th>Language Contribution</th>
+     </tr>
+      <tr>
+       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=KamrulSh&show_icons=true&theme=radical"> </td>
+       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamrulSh&langs_count=10&theme=merko&layout=compact&hide=html"> </td>
+     </tr>
+   </table>
+</p>
+
+<p><img align='left' src="https://komarev.com/ghpvc/?username=KamrulSh&color=blueviolet" alt="KamrulSh" /> </p>
