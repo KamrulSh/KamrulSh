@@ -15,15 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.linkedin.com/in/mdkamrulshahin/">
-  <img align="left" alt="Shahin's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/KamrulSh">
-  <img align="left" alt="Shahin's Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCcuV9HApct6NQEYSNOLtQYA?view_as=subscriber">
-  <img align="left" alt="Shahin's YouTube" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
-</a>
 <a href="https://www.kaggle.com/shahin21">
   <img align="left" alt="Shahin's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
@@ -31,7 +22,6 @@ Here are some ideas to get you started:
   <img align="left" alt="Shahin's facebook" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/facebook.svg" />
 </a>
 <br />
-
 
 **To know more:**  [Portfolio](https://kamrulsh.github.io/), [LinkedIn](https://www.linkedin.com/in/mdkamrulshahin/), [Email](mailto:shahin.cuetcse@gmail.com)
 <br/>
@@ -41,6 +31,9 @@ Check the repositories section to see my efforts! Hope, you will enjoy it.
 <p align="center">
   <a href="mailto:shahin.cuetcse@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-shahin.cuetcse@gmail.com-red?style=flat&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/KamrulSh"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-KamrulSh-blue?style=flat&logo=linkedin"></a>
+  <a href="https://www.youtube.com/channel/UC4kPAl97iKb_nUfQqDCVPqg"><img alt="Youtube" src="https://img.shields.io/youtube/channel/views/UC4kPAl97iKb_nUfQqDCVPqg?label=Kamruls%20Kode&style=social"></a>
+  <a href="https://github.com/KamrulSh"><img alt="Youtube" src="https://img.shields.io/github/followers/KamrulSh?label=KamrulSh&style=social"></a>
+  
 </p>
 
 <p align="center">
