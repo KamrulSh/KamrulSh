@@ -15,26 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.kaggle.com/shahin21">
-  <img align="left" alt="Shahin's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
-<a href="https://www.facebook.com/mdkamrulshahin">
-  <img align="left" alt="Shahin's facebook" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/facebook.svg" />
-</a>
-<br />
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mdkamrulshahin)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC4kPAl97iKb_nUfQqDCVPqg) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdkamrulshahin/) 
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahin.cuetcse@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shahin21)
 
-**To know more:**  [Portfolio](https://kamrulsh.github.io/), [LinkedIn](https://www.linkedin.com/in/mdkamrulshahin/), [Email](mailto:shahin.cuetcse@gmail.com)
-<br/>
 Check the repositories section to see my efforts! Hope, you will enjoy it.
 <br/>
-
-<p align="center">
-  <a href="mailto:shahin.cuetcse@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-shahin.cuetcse@gmail.com-red?style=flat&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/KamrulSh"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-KamrulSh-blue?style=flat&logo=linkedin"></a>
-  <a href="https://www.youtube.com/channel/UC4kPAl97iKb_nUfQqDCVPqg"><img alt="Youtube" src="https://img.shields.io/youtube/channel/views/UC4kPAl97iKb_nUfQqDCVPqg?label=Kamruls%20Kode&style=social"></a>
-  <a href="https://github.com/KamrulSh"><img alt="Youtube" src="https://img.shields.io/github/followers/KamrulSh?label=KamrulSh&style=social"></a>
-  
-</p>
 
 <p align="center">
    <table>
