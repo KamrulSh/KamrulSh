@@ -40,4 +40,19 @@ Check the repositories section to see my efforts! Hope, you will enjoy it.
    </table>
 </p>
 
+<h3>My coding stack: </h3>
+<p>
+  <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" />
+  <img alt="Odoo" src="https://s10.gifyu.com/images/odoo.png" />
+  <img alt="PostgreSql" src="https://img.icons8.com/color/48/000000/postgreesql.png" /> 
+  <img alt="Django" src="https://img.icons8.com/color/48/000000/django.png" /> 
+  <img alt="Javascript" src="https://img.icons8.com/color/50/000000/javascript.png" /> 
+  <img alt="Anaconda" src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
+  <img alt="Docker" src="https://img.icons8.com/color/48/000000/docker-container.png" /> 
+  <img alt="Github" src="https://img.icons8.com/doodle/48/000000/github.png" /> 
+  <img alt="Git" src="https://img.icons8.com/color/48/000000/git.png" />
+  <img alt="Xml" src="https://s10.gifyu.com/images/xml-vector-icon-removebg-preview-1.png" />
+  </br>
+</p>
+
 <p><img align='left' src="https://komarev.com/ghpvc/?username=KamrulSh&color=blueviolet" alt="KamrulSh" /> </p>
