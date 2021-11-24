@@ -1,5 +1,9 @@
 ### Hi there 👋, This is Kamrul Islam Shahin
 
+<p align="center">
+<img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="130">
+<br>
+   
 <!--
 **KamrulSh/KamrulSh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
