@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC4kPAl97iKb_nUfQqDCVPqg) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdkamrulshahin/) 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahin.cuetcse@gmail.com)
-[![Mail Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shahin21)
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shahin21)
 
 Check the repositories section to see my efforts! Hope, you will enjoy it.
 <br/>
@@ -33,13 +33,10 @@ Check the repositories section to see my efforts! Hope, you will enjoy it.
       <tr>
        <th>Profile stats  </th>
        <th>Language Contribution</th>
-       <th>GitHub Streak</th>
      </tr>
       <tr>
        <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=KamrulSh&show_icons=true&theme=radical"> </td>
        <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamrulSh&langs_count=10&theme=merko&layout=compact&hide=html"> </td>
-       <td><img alt="Devorein :: GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=kamrulsh&theme=dark&hide_border=false"> </td>
-     </tr>
    </table>
 </p>
 
