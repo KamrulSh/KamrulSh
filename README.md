@@ -55,4 +55,47 @@ Check the repositories section to see my efforts! Hope, you will enjoy it.
   </br>
 </p>
 
+<!-- 
+### Tech Stack
+
+#### Languages & Frameworks
+
+[<img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="25" />](https://www.python.org)
+[<img src="https://img.shields.io/badge/FastAPI-66595C?logo=FastAPI" alt="FastAPI logo" title="FastAPI" height="25" />](https://fastapi.tiangolo.com/)
+[<img src="https://img.shields.io/badge/Django-66595C?logo=Django" alt="Django logo" title="Django" height="25" />](https://www.djangoproject.com)
+[<img src="https://img.shields.io/badge/Flask-66595C?logo=Flask" alt="Flask logo" title="Flask" height="25" />](https://flask.palletsprojects.com/)
+[<img src="https://img.shields.io/badge/PyQt-66595C?logo=Qt" alt="Qt logo" title="PyQt" height="25" />](https://doc.qt.io/qtforpython/)
+
+[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js" alt="nodejs logo" title="nodejs" height="25" />](https://nodejs.org/en/)
+[<img src="https://img.shields.io/badge/Express.js-66595C?logo=Express" alt="Express logo" title="Express.js" height="25" />](https://expressjs.com/)
+
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript" alt="JavaScript logo" title="JavaScript" height="25" />](https://www.javascript.com)
+[<img src="https://img.shields.io/badge/Nuxt.js-66595C?logo=Nuxt.js" alt="Nuxt.js logo" title="Nuxt.js" height="25" />](https://nuxtjs.org/)
+[<img src="https://img.shields.io/badge/React.js-66595C?logo=React" alt="React.js logo" title="React.js" height="25" />](https://reactjs.org/)
+
+#### Database
+
+[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb" alt="MongoDB logo" title="MongoDB" height="25" />](https://www.mongodb.com/)
+[<img src="https://img.shields.io/badge/Redis-282C34?logo=redis" alt="Redis logo" title="Redis" height="25" />](https://redis.io/)
+[<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL" alt="PostgreSQL logo" title="PostgreSQL" height="25" />](https://www.postgresql.org/)
+
+#### Cloud Platform
+
+[<img src="https://img.shields.io/badge/AWS-282C34?logo=amazonaws&logoColor=FF9900" alt="AWS logo" title="AWS" height="25" />](https://aws.amazon.com)
+[<img src="https://img.shields.io/badge/GCP-282C34?logo=googlecloud" alt="GCP logo" title="GCP" height="25" />](https://cloud.google.com)
+
+#### DevOps
+
+[<img src="https://img.shields.io/badge/Docker-282C34?logo=docker" alt="Docker logo" title="Docker" height="25" />](https://www.docker.com)
+[<img src="https://img.shields.io/badge/Terraform-282C34?logo=Terraform&logoColor=7B42BC" alt="Terraform logo" title="Terraform" height="25" />](https://www.terraform.io/)
+
+[<img src="https://img.shields.io/badge/Grafana-282C34?logo=Grafana" alt="Grafana logo" title="Grafana" height="25" />](https://grafana.com/)
+[<img src="https://img.shields.io/badge/NewRelic-282C34?logo=newrelic&logoColor=008C99" alt="NewRelic logo" title="NewRelic" height="25" />](https://newrelic.com/)
+[<img src="https://img.shields.io/badge/Elasticsearch-282C34?logo=Elasticsearch" alt="Elasticsearch logo" title="Elasticsearch" height="25" />](https://www.elastic.co/)
+
+[<img src="https://img.shields.io/badge/Jenkins-282C34?logo=Jenkins" alt="Jenkins logo" title="Jenkins" height="25" />](https://www.jenkins.io/)
+[<img src="https://img.shields.io/badge/TravisCI-282C34?logo=TravisCI" alt="TravisCI logo" title="TravisCI" height="25" />](https://travis-ci.org/)
+
+ -->
+
 <p><img align='left' src="https://komarev.com/ghpvc/?username=KamrulSh&color=blueviolet" alt="KamrulSh" /> </p>
